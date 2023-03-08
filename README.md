@@ -1,2 +1,2 @@
 # odin-recipes
-First Odin Project
+First Odin Project, we will style it later with css
